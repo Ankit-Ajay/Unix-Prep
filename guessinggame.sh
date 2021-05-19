@@ -23,7 +23,7 @@ function guess_num{
           guess_num
         else
           echo "There is More .Please try again. Press Enter"
-          guess_num
+          guess_num 
         fi
       fi
       }

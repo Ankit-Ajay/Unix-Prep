@@ -4,4 +4,4 @@ readme : guessinggame.sh
          echo "\nDate make ran at:" >> README.md
          date >> README.md
          echo "\nNumber of line file guessinggame.sh contains:" README.md
-         cat guessinggame.sh | wc -l >>  README.md
+         cat guessinggame.sh | wc -l >>  README.md 
